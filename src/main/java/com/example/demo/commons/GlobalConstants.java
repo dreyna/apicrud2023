@@ -5,8 +5,7 @@ public class GlobalConstants {
 	
 	/* APIS */
 
-	public static final String  	API_PRODUCTO			=	"/v1/productos";
-
+	public static final String API_PRODUCTO = "/v1/productos";
 	
 	/* Mensajes*/
 	
